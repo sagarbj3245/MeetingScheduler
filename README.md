@@ -28,7 +28,7 @@ A Node.js-based backend application that integrates with the Google Calendar API
 
 ```
 
-##ScheduleMeeting/
+ScheduleMeeting/
 ├── .env
 ├── server.js               # Main entry point
 ├── google-auth.js          # Handles Google OAuth2 and calendar API logic
@@ -136,11 +136,3 @@ Check out the full list in `package.json`. Major ones include:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
-✅ This version is ready for GitHub, fully markdown-compliant, and cleanly formatted. Let me know if you'd like badges for stars, forks, or tech used.
-```
