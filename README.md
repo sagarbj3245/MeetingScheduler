@@ -1,5 +1,3 @@
-Sure! Here's the **final and complete `README.md`** file in one clean block, ready to copy-paste into your GitHub repository:
-
 ```markdown
 # 📅 ScheduleMeeting - Google Calendar Meeting Scheduler
 
@@ -30,7 +28,7 @@ A Node.js-based backend application that integrates with the Google Calendar API
 
 ```
 
-ScheduleMeeting/
+##ScheduleMeeting/
 ├── .env
 ├── server.js               # Main entry point
 ├── google-auth.js          # Handles Google OAuth2 and calendar API logic
